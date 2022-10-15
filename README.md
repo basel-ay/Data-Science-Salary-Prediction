@@ -44,3 +44,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
+![image](https://user-images.githubusercontent.com/64821137/195982445-dbdbba4c-07e1-4978-9600-f749d6045d7c.png)
+![image](https://user-images.githubusercontent.com/64821137/195982408-9d62c910-eb0e-4fcc-91bb-7304f8a962ea.png)
+![image](https://user-images.githubusercontent.com/64821137/195982461-f053727e-dc2b-41b7-a121-1016cd7083d8.png)
+
