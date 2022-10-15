@@ -75,4 +75,5 @@ The Random Forest model far outperformed the other approaches on the test and va
 ## Productionization 
 In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary. 
 
-
+## Project Dashboard
+![image](https://user-images.githubusercontent.com/64821137/195990004-3aaeb3b0-5cac-47ad-8e6a-ab4128f60456.png)
